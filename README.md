@@ -1,9 +1,9 @@
+![Example render](https://github.com/karlek/bygget/blob/master/render.png?raw=true)
+
 WIP
 ---
 This project is a *work in progress*. The implementation is *incomplete* and
 subject to change. The documentation can be inaccurate.
-
-![Example render](https://github.com/karlek/bygget/blob/master/render.png?raw=true)
 
 bygget
 ======
